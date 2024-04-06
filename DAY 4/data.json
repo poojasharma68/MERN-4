@@ -1,0 +1,5 @@
+ cont obj{
+    "name":"ajay",
+    "last":"singh"
+}
+document.write(obj);
